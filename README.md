@@ -1,4 +1,10 @@
-### Hi there 👋
+## Stats
+
+<p>
+    <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fffelix-huang&bg_color=90,DAFFEF,FCFFFD" alt="GitHub - Language Stats">
+    &nbsp;&nbsp;
+    <img width="62%" src="https://github-readme-stats.vercel.app/api?username=fffelix-huang&count_private=true&show_icons=true&bg_color=90,DAFFEF,FCFFFD" alt="GitHub Stats">
+</p>
 
 <!--
 **fffelix-huang/fffelix-huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
