@@ -1,9 +1,10 @@
 ## Stats
 
-<p>
-    <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fffelix-huang&bg_color=90,DAFFEF,FCFFFD" alt="GitHub - Language Stats">
-    &nbsp;&nbsp;
-    <img width="62%" src="https://github-readme-stats.vercel.app/api?username=fffelix-huang&count_private=true&show_icons=true&bg_color=90,DAFFEF,FCFFFD" alt="GitHub Stats">
+<p align="center">
+<a href="https://github.com/William-Mou">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fffelix-huang&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fffelix-huang&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 <!--
